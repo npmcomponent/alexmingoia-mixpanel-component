@@ -1,0 +1,11 @@
+{
+  "name": "mixpanel",
+  "description": "MixPanel integration library.",
+  "version": "1.0.0",
+  "keywords": [
+    "mixpanel",
+    "component"
+  ],
+  "main": "mixpanel.js",
+  "license": "MIT"
+}

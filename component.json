@@ -1,0 +1,13 @@
+{
+  "name": "mixpanel",
+  "description": "MixPanel integration library.",
+  "repo": "alexmingoia/mixpanel",
+  "version": "1.0.0",
+  "keywords": [
+    "mixpanel",
+    "component"
+  ],
+  "main": "mixpanel.js",
+  "scripts": ["mixpanel.js"],
+  "license": "MIT"
+}

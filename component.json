@@ -1,7 +1,7 @@
 {
   "name": "mixpanel",
   "description": "MixPanel integration library.",
-  "repo": "alexmingoia/mixpanel",
+  "repo": "alexmingoia/mixpanel-component",
   "version": "1.0.0",
   "keywords": [
     "mixpanel",
